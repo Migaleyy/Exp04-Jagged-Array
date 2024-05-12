@@ -13,3 +13,11 @@ C:\Users\Archana\csharpExperiments\Exp04-Jagged-Array\obj\Debug\net6.0\refint\Ex
 C:\Users\Archana\csharpExperiments\Exp04-Jagged-Array\obj\Debug\net6.0\Exp04-Jagged-Array.pdb
 C:\Users\Archana\csharpExperiments\Exp04-Jagged-Array\obj\Debug\net6.0\Exp04-Jagged-Array.genruntimeconfig.cache
 C:\Users\Archana\csharpExperiments\Exp04-Jagged-Array\obj\Debug\net6.0\ref\Exp04-Jagged-Array.dll
+S:\c#\Exp04-Jagged-Array\obj\Debug\net6.0\Exp04-Jagged-Array.GeneratedMSBuildEditorConfig.editorconfig
+S:\c#\Exp04-Jagged-Array\obj\Debug\net6.0\Exp04-Jagged-Array.AssemblyInfoInputs.cache
+S:\c#\Exp04-Jagged-Array\obj\Debug\net6.0\Exp04-Jagged-Array.AssemblyInfo.cs
+S:\c#\Exp04-Jagged-Array\obj\Debug\net6.0\Exp04-Jagged-Array.csproj.CoreCompileInputs.cache
+S:\c#\Exp04-Jagged-Array\obj\Debug\net6.0\Exp04-Jagged-Array.sourcelink.json
+S:\c#\Exp04-Jagged-Array\obj\Debug\net6.0\Exp04-Jagged-Array.dll
+S:\c#\Exp04-Jagged-Array\obj\Debug\net6.0\refint\Exp04-Jagged-Array.dll
+S:\c#\Exp04-Jagged-Array\obj\Debug\net6.0\Exp04-Jagged-Array.pdb
